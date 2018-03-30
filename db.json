@@ -11,9 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "zillow":{
+  "zillow":[
      { "id": 1, "price": "$200,000", "lastSold": "12/12/2009" },
     { "id": 2, "price": "$204,000", "lastSold": "12/11/2009" },
     { "id": 3, "price": "$209,000", "lastSold": "1/1/2017" }
-  }
+  ]
 }
