@@ -15,5 +15,27 @@
      { "id": 1, "price": "$200,000", "lastSold": "12/12/2009" },
     { "id": 2, "price": "$204,000", "lastSold": "12/11/2009" },
     { "id": 3, "price": "$209,000", "lastSold": "1/1/2017" }
+  ],
+  "users":[
+    {
+id: 1,
+name: "Leanne Graham"
+},
+{
+id: 2,
+name: "Ervin Howell"
+},
+{
+id: 3,
+name: "Clementine Bauch"
+},
+{
+id: 4,
+name: "Patricia Lebsack"
+},
+{
+id: 5,
+name: "Chelsey Dietrich"
+}
   ]
 }
